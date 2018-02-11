@@ -4,7 +4,7 @@ import javax.swing.*;
 
 //The logics behind the panel is as follows:
 //1.Board preparation:
-//-the user chooses what with what numbers his board will be initialized.
+//-the user chooses with what numbers his board will be initialized.
 //-after inserting each number the player should press enter to validate the number.
 //-when the player finished preparing the board he should press "set".
 //2.The game stage
